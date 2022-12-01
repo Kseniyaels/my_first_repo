@@ -4,4 +4,6 @@
 
 Добавил текст через браузер. Add english text in browser.
 
-UPPRECASE
+
+Brawser bad text
+UPPERECASE
