@@ -9,7 +9,7 @@ Browser bad text
 UPPERECASE
 
 ## Картинки
-Это яблоко
+Это яблоко. This apple.
 
 ![яблоко](apple.jpg)
 
