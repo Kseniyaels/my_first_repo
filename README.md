@@ -5,5 +5,5 @@
 Добавил текст через браузер. Add english text in browser.
 
 
-Brawser bad text
+Browser bad text
 UPPERECASE
